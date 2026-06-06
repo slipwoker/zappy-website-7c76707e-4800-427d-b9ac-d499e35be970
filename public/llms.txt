@@ -1,0 +1,78 @@
+# מילות החוכמה של בפו יה — Generative Engine Optimization Map
+
+> A fun and creative quotes website themed around Buggy (Baffo) from the popular anime/manga series One Piece. The site is called 'מילות החוכמה של בפו יה' (Buggy's Words of Wisdom) and will feature wisdom quotes curated by the site owner, with a logo inspired by the iconic One Piece character Buggy the Clown. The overall vibe is playful, anime-inspired, and humorous, blending pop culture fandom with a wisdom/quotes concept.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+היכנס לעולם קסום של מילות חוכמה מעוררות השראה מבית מילות החוכמה של בפו יה. ציטוטים מקוריים, הומוריסטיים ומעצימים שיאירו את יומך ויספקו לך השראה יומית. התחבר עכשיו!
+
+### עולם הציטוטים
+https://example.com/quotes-world
+חקור את עולם הציטוטים המרהיב של מילות החוכמה של בפו יה. אוסף עצום של מילות חוכמה להתפתחות אישית, ציטוטים מעוררי השראה לסטודנטים ועוד. מצא את הציטוט המושלם שידליק את ניצוץ היצירתיות שבך!
+
+### אודות
+https://example.com/about
+סקרנים לדעת מי עומד מאחורי מילות החוכמה המבריקות? בואו ללמוד על הסיפור, החזון והאהבה לבאגי הליצן שהציתו את מיזם מילות החוכמה של בפו יה. גלו את הקסם עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לך מילת חוכמה מנצחת? צור קשר עם צוות מילות החוכמה של בפו יה ושתף אותנו בציטוטים שלך! אנחנו מחכים לשמוע ממך ולהפיץ את החוכמה שלך לעולם. כתוב לנו עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מילות החוכמה של בפו יה
+A fun and creative quotes website themed around Buggy (Baffo) from the popular anime/manga series One Piece. The site is called 'מילות החוכמה של בפו יה' (Buggy's Words of Wisdom) and will feature wisdom quotes curated by the site owner, with a logo inspired by the iconic One Piece character Buggy the Clown. The overall vibe is playful, anime-inspired, and humorous, blending pop culture fandom with a wisdom/quotes concept.
+
+## Target Audience
+- סטודנטים המחפשים השראה
+- מחפשי התפתחות אישית
+- משפיעני מדיה חברתית
+
+## Industry
+Entertainment / Quotes & Inspiration
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
